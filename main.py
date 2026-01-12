@@ -25,4 +25,4 @@ data_frame = pd.read_csv("dataset/sales_data.csv")
 
 product_stocks = data_frame[["product_name", "stock"]]
 product_stocks.plot()
-plt.show()
+#plt.show()
