@@ -1,0 +1,1001 @@
+id,product_name,price,stock,date_added
+1,Gardening Gloves with Claws,$790885.80,9,12/11/2024
+2,Rice Pudding,$162401.24,18,8/3/2022
+3,Fishing Rod,$245343.84,20,16/3/2021
+4,Portable Air Purifier,$438836.66,3,26/9/2025
+5,Teriyaki Chicken Stir-Fry,$7092.93,3,2/12/2022
+6,Quinoa & Black Bean Salad,$448904.23,16,30/11/2024
+7,Asian Noodle Salad Kit,$455564.33,11,13/2/2020
+8,Measuring Cups Set,$125217.53,20,11/10/2023
+9,Wall Decals for Kids,$181736.07,19,16/4/2021
+10,Lemon Dill Salmon,$422309.01,11,6/4/2024
+11,Skincare Set,$506732.92,8,18/2/2020
+12,Stuffed Bell Peppers,$251680.84,6,23/11/2024
+13,Sliced Cheese,$221163.12,13,20/10/2021
+14,Elegant Lace Dress,$347309.28,1,11/7/2020
+15,Craft Beer Mustard,$701022.90,18,16/4/2024
+16,Cinnamon Ice Cream,$646370.79,12,14/1/2024
+17,Grilled Veggie Burgers,$131590.48,8,2/4/2024
+18,Electric Heat Pad,$655785.20,7,12/5/2020
+19,Spicy Thai Coconut Soup,$67267.06,10,18/11/2020
+20,Insulated Coffee Mug,$152788.42,6,6/4/2024
+21,Vegetable Potstickers,$796465.30,9,4/11/2020
+22,Herbed Mushroom Risotto,$933613.03,15,21/8/2020
+23,Bamboo Cutting Board Set,$146245.76,14,15/9/2024
+24,Italian Herbal Seasoning,$48423.02,2,20/8/2021
+25,Dark Chocolate Covered Almonds,$418141.84,4,23/5/2021
+26,Peanut Butter Protein Balls,$213751.80,13,15/6/2024
+27,Garlic & Herb Goat Cheese,$119429.22,15,26/4/2022
+28,Spinach and Ricotta Ravioli,$569167.03,18,30/7/2020
+29,Maple Cinnamon Almonds,$121240.91,6,1/4/2021
+30,Electric Wax Warmer,$922178.18,5,18/2/2023
+31,LED Christmas Tree Lights,$446982.45,4,28/4/2023
+32,Pasta Portion Control Measure,$428949.81,5,5/9/2023
+33,Stylish Wireless Earbuds,$473024.31,19,8/8/2020
+34,Travel Beach Blanket,$159885.98,17,7/3/2023
+35,Smartphone Camera Lens Kit,$129698.53,15,19/4/2023
+36,Fitness Resistance Bands Kit,$285744.10,6,20/10/2020
+37,Cotton Basic Tank,$81814.53,16,4/9/2022
+38,Shoe Organizer,$15568.02,11,13/6/2021
+39,Pasta (Linguine),$703143.66,19,26/11/2020
+40,Automatic Pet Feeder,$167522.00,11,30/8/2024
+41,Outdoor Adventure Kit,$707067.01,18,20/3/2025
+42,Raspberry Vanilla Greek Yogurt,$53457.01,14,13/10/2025
+43,Electric Heat Press Machine,$553234.64,20,16/4/2021
+44,Luxury Rolling Makeup Case,$285547.00,1,17/6/2022
+45,Digital Food Thermometer,$713785.36,14,30/7/2025
+46,Eco-Friendly Notepad,$266927.42,13,11/9/2023
+47,Portable Hammock with Stand,$708492.10,7,6/12/2023
+48,Reusable Produce Bags Set,$333122.14,13,17/11/2021
+49,Over-The-Door Shoe Organizer,$938303.99,1,13/11/2023
+50,Garden Vegetable Chips,$695925.50,7,17/1/2024
+51,Apple Cinnamon Instant Oatmeal,$586496.62,7,27/6/2020
+52,Curried Lentil Salad,$455824.32,13,8/9/2021
+53,Chocolate Fudge Ice Cream,$664795.30,20,19/4/2024
+54,Instant Camera,$235879.85,11,27/10/2023
+55,Peach Slices (canned),$726455.47,8,31/8/2024
+56,Almond Quinoa Salad,$834774.62,17,1/3/2020
+57,Whole Grain Mustard,$632121.85,17,30/8/2024
+58,Strawberry Banana Smoothie Pack,$94946.19,2,25/6/2022
+59,Sculpting Kit,$635873.32,12,16/2/2025
+60,Sliced Cheese,$776565.68,18,16/6/2022
+61,Travel Hair Straightener,$962825.92,1,19/2/2023
+62,Creamy Tomato Basil Soup,$341256.87,10,7/8/2024
+63,Peanut Butter Filled Pretzels,$895571.92,2,25/9/2021
+64,Foam Muscle Roller,$8418.67,5,28/4/2020
+65,Banana Peanut Butter Smoothie,$536380.45,17,4/3/2020
+66,Pumpkin Pie Spice,$884406.13,7,7/8/2025
+67,Rice Cakes,$43083.98,18,14/6/2025
+68,Lemon Zest Olive Oil,$368763.44,9,13/4/2023
+69,Vegan Tacos,$969501.39,20,16/9/2024
+70,Acoustic Guitar,$873584.06,15,8/8/2023
+71,Casual Cropped Sweater,$11404.10,13,25/8/2023
+72,Baked Potato Chips,$960158.94,2,29/12/2021
+73,Eco-Friendly Cleaning Cloths,$281918.29,16,29/3/2023
+74,Beef Taco Skillet,$286555.54,18,16/10/2021
+75,Garlic Herb Seasoning,$786573.69,2,3/1/2023
+76,Vanilla Bean Greek Yogurt,$399108.96,18,9/3/2022
+77,Electric Wax Warmer,$620771.06,10,12/12/2021
+78,Cajun Seasoning,$201324.73,20,28/11/2020
+79,Eco-Friendly Yoga Blocks,$669786.46,2,25/11/2025
+80,Mesh Sports Leggings,$282804.21,19,27/6/2022
+81,Portable Electric Fan,$296815.30,8,20/2/2021
+82,Non-Stick Crepe Pan,$215438.06,20,21/8/2023
+83,Portable Speaker Stand,$879789.45,4,2/1/2022
+84,Jasmine Rice,$987677.52,4,18/5/2020
+85,Workstation Laptop Stand,$813286.91,20,11/6/2023
+86,Cream Cheese,$263166.97,11,21/10/2020
+87,Voice-Controlled Speaker,$582123.55,4,20/1/2022
+88,Cinnamon Ice Cream,$301884.08,20,6/11/2021
+89,Spicy Thai Chili Sauce,$668125.33,11,21/6/2021
+90,Almond Flour,$310717.19,20,24/5/2022
+91,Lemon Dill Chicken Skewers,$86736.56,9,26/8/2022
+92,Portable USB-C Monitor,$819266.38,10,2/9/2020
+93,Red Lentil Pasta,$491964.92,15,16/7/2021
+94,Puffed Rice Cake,$119946.59,5,17/10/2024
+95,Sweet Chili Thai Sauce,$201495.78,15,19/11/2024
+96,Smashed Avocado with Lime,$4263.44,11,14/4/2022
+97,Mango Chili Salsa,$725668.33,8,4/1/2023
+98,Organic Honeycrisp Apples,$349319.62,4,17/2/2025
+99,Ready-to-Eat Chili,$605175.00,1,13/12/2021
+100,Savory Trail Mix,$434909.75,8,28/10/2022
+101,Almond Milk Yogurt,$88821.00,19,23/1/2025
+102,Dog Training Collar,$393617.02,7,24/5/2024
+103,Chicken Breasts,$8748.65,7,5/12/2022
+104,Vegetable Stir-Fry Sauce,$422277.35,18,21/9/2020
+105,Herbed Goat Cheese,$44692.89,15,20/12/2024
+106,Traditional Hummus,$993335.10,16,2/4/2021
+107,Balsamic Salad Dressing,$404450.00,4,4/2/2020
+108,Self-Watering Planter,$428411.90,4,26/8/2023
+109,Mini Waffle Maker,$722090.66,5,11/5/2022
+110,Bamboo Cutting Board Set,$737664.65,14,27/6/2022
+111,Scented Candle Set,$916764.42,9,29/9/2025
+112,Smoked Paprika,$45746.11,5,18/5/2021
+113,Smart Water Bottle with Hydration Reminder,$334270.48,11,26/4/2022
+114,Cotton Tote Bag Set,$871279.18,10,9/10/2023
+115,Barbecue Chicken Pizza,$523446.17,13,24/6/2020
+116,Sweet Potato Tots,$553490.96,19,15/7/2024
+117,Chocolate Fudge Ice Cream,$671308.69,14,24/6/2025
+118,Thermostatic Shower Valve Kit,$154573.57,9,1/7/2021
+119,Reusable Food Storage Bags,$347883.68,6,18/11/2023
+120,Desk Lamp with USB Port,$685829.46,13,8/3/2024
+121,Chia Seeds,$809132.03,14,8/5/2020
+122,Beef Chili,$812838.39,10,5/9/2020
+123,Mediterranean Flatbread,$894681.97,5,27/7/2024
+124,Chocolate Chip Pancake Mix,$91383.89,9,30/12/2025
+125,Digital Food Scale,$762355.15,1,17/6/2024
+126,Reusable Snack Bags,$67354.52,17,26/12/2024
+127,Brown Sugar,$583606.24,1,4/6/2022
+128,Electric Stool Heater,$684213.98,18,9/5/2023
+129,Ramen Noodles,$711017.80,7,14/3/2020
+130,Smartphone UV Sanitizer,$931824.55,16,20/8/2021
+131,Pesto Genovese,$278747.89,10,6/3/2022
+132,Set of Measuring Spoons,$489458.26,8,5/5/2025
+133,Set of Herb Garden Markers,$826491.73,3,12/7/2021
+134,Wrap Front Midi Skirt,$953415.73,20,6/9/2022
+135,Spicy Snack Mix,$832467.67,9,31/8/2024
+136,Balsamic Salad Dressing,$735822.03,12,10/3/2021
+137,Lightweight Workout Tank,$858066.57,8,26/1/2024
+138,Ribbed Knit Dress,$596772.33,20,20/8/2021
+139,Stylish Wide-Leg Trousers,$41509.07,6,30/3/2020
+140,Green Smoothie Mix,$855939.05,5,6/11/2025
+141,Lemon Garlic Marinade,$970417.58,13,19/7/2025
+142,Crispy Onion Rings,$989194.41,19,7/3/2025
+143,Oven-Baked Chicken Tenders,$833234.26,5,15/2/2020
+144,Dog Waste Bag Dispenser,$575648.56,17,2/8/2021
+145,Face Mask Set,$400768.19,2,30/7/2023
+146,Garlic Naan Bread,$413197.83,20,26/3/2023
+147,Portable Speaker Stand,$248913.60,6,23/7/2022
+148,Multi-Tool,$614311.68,19,10/6/2022
+149,Herbal Tea Variety Pack,$391475.05,14,9/2/2023
+150,Air Mattress,$459074.42,19,19/7/2023
+151,Chickpea Salad Deluxe,$341031.45,19,10/9/2022
+152,Travel Size Toiletry Bottles,$257996.37,8,1/12/2025
+153,Whole Wheat Bread,$996172.07,2,22/8/2022
+154,Peanut Butter Chocolate Clusters,$491125.59,4,23/6/2023
+155,Pine Nuts,$358659.61,4,25/8/2023
+156,Adjustable Pet Feeder,$590372.29,1,22/10/2021
+157,Hand Crank Blender,$35664.61,11,22/5/2024
+158,Smoked Paprika Chicken Thighs,$562391.79,18,23/11/2024
+159,Coconut Milk Yogurt,$638023.60,14,11/6/2020
+160,Raspberry Tart,$725676.06,1,14/3/2023
+161,Coconut Cream Pie Yogurt,$947677.04,18,7/5/2023
+162,Watercolor Paint Set,$148708.30,13,12/7/2023
+163,Rechargeable Electric Toothbrush,$166552.41,8,6/11/2021
+164,Wall Decals for Kids,$782889.17,10,29/9/2023
+165,Stylish Wide-Leg Trousers,$220655.26,5,17/3/2020
+166,Spaghetti Squash,$142844.86,4,27/6/2023
+167,Strawberry Fruit Spread,$738702.67,9,8/12/2021
+168,Car Emergency Kit,$960361.69,11,1/4/2024
+169,Lemon Herb Grilled Chicken,$155915.21,9,14/2/2022
+170,USB Wall Charger,$712870.18,2,12/11/2020
+171,Asian Stir-Fry Kit,$549304.62,19,22/5/2024
+172,Portable Dog Water Bottle,$831134.31,19,3/8/2021
+173,Sweet Corn,$100686.88,5,28/10/2025
+174,Spinach and Cheese Stuffed Shells,$162062.30,15,15/5/2021
+175,Customizable Photo Calendar,$928532.85,8,8/8/2024
+176,Chocolate Chip Muffins,$9667.84,20,25/4/2023
+177,Zucchini Noodles,$465741.74,19,6/7/2025
+178,LED Makeup Mirror,$478230.09,13,11/6/2022
+179,Dark Chocolate Bars,$574304.25,2,17/4/2020
+180,LED Christmas Lights,$709300.48,18,29/12/2024
+181,Vegan Chickpea Salad,$763791.59,11,12/12/2025
+182,Thai Peanut Dressing,$92490.42,17,2/11/2020
+183,Ceramic Knife Set,$677044.22,4,8/5/2022
+184,Personal Blender with Travel Lid,$286592.64,17,30/10/2025
+185,Kids' Art Easel,$991466.89,3,3/11/2020
+186,Baby Safety Corner Guards,$638642.13,12,14/9/2023
+187,Knitted Infinity Scarf,$810936.27,2,29/12/2022
+188,Vintage Graphic Tee,$190121.99,18,7/11/2025
+189,Desk Organizer Set,$114765.98,7,5/7/2022
+190,Miso Soup Mix,$556274.68,18,19/2/2023
+191,Cheddar & Bacon Potato Skins,$656166.16,18,28/12/2024
+192,Travel Laundry Bag,$810212.72,16,15/4/2025
+193,Tactical Backpack,$5026.56,9,5/7/2020
+194,Jasmine Rice,$103759.49,9,22/12/2024
+195,Cheddar Cheese Crackers,$872013.50,5,6/8/2020
+196,Multi-Function Smartphone Holder,$677738.24,14,30/1/2020
+197,Classic BBQ Sauce,$275765.90,1,31/3/2023
+198,Cable Knit Beanie,$495359.07,5,20/2/2022
+199,Vegetable and Cheese Quesadillas,$128915.52,2,2/11/2022
+200,V-Neck Sweater,$367632.46,13,7/10/2025
+201,High-Speed HDMI Cable,$969641.51,17,5/11/2020
+202,Honey BBQ Riblets,$740055.99,7,6/6/2021
+203,Sliced Bread,$927502.52,13,23/6/2021
+204,Wooden Puzzle Game,$45255.34,3,19/8/2024
+205,Turkey Bacon,$388430.53,9,16/2/2023
+206,Miso Soup Mix,$429261.22,12,7/1/2025
+207,Slim Fit Chinos,$541160.42,6,21/10/2023
+208,Chic Jumpsuit,$284416.81,12,10/11/2024
+209,Mini Hand Gesture Drone,$987704.60,6,20/5/2025
+210,Spicy Kimchi,$55389.42,12,28/9/2024
+211,Portable Blender,$59214.63,7,9/6/2023
+212,Baked Mac and Cheese,$732957.41,19,7/8/2023
+213,High-Speed Blender,$675079.42,6,31/5/2024
+214,Animal Paw Print Soap Dispenser,$523710.44,16,19/12/2023
+215,Foam Muscle Roller,$874339.93,10,2/2/2024
+216,Classic Caesar Dressing,$871462.26,9,23/4/2022
+217,Caribbean Jerk Marinade,$518430.78,20,10/6/2022
+218,Mediterranean Couscous,$217301.22,18,31/8/2022
+219,Chocolate Mint Cookies,$45548.94,11,16/12/2025
+220,Classic BBQ Sauce,$255795.84,11,7/10/2021
+221,Hiking Water Bottle with Filter,$56658.39,19,27/11/2022
+222,Electric Meat Grinder,$653863.70,3,18/5/2024
+223,Sea Salt Caramel Popcorn,$172904.20,8,24/11/2020
+224,Spinach and Feta Stuffed Chicken Breast,$30795.68,7,21/8/2024
+225,Coconut Cream,$507010.65,10,6/4/2023
+226,Teriyaki Beef Jerky,$758056.20,11,29/1/2024
+227,Baked Potato Chips,$289416.35,20,16/1/2023
+228,Bamboo Toothbrush,$28466.08,13,23/1/2023
+229,Wireless Range Extender,$302995.56,10,28/3/2025
+230,Classic White T-Shirt,$32963.16,18,26/1/2024
+231,Couscous,$885533.40,12,23/3/2023
+232,Coconut Oil,$203738.70,17,26/12/2024
+233,Salt and Pepper Grinder Set,$254149.13,11,2/3/2022
+234,Honey Mustard Dip,$696703.08,3,30/9/2020
+235,Vegetable and Cheese Quesadillas,$56497.99,2,17/3/2020
+236,Organic Tomato Soup,$989044.41,16,17/6/2023
+237,Chickpeas,$171266.86,6,8/3/2025
+238,Lightweight Travel Backpack,$426292.57,13,3/5/2023
+239,Maple Glazed Carrots,$734675.36,6,26/4/2020
+240,Athletic Jogging Jacket,$688741.14,13,28/9/2025
+241,Peanut Butter Chocolate Clusters,$641563.84,4,10/12/2020
+242,Blue Denim Jeans,$51902.45,9,2/2/2024
+243,Caramelized Onion Dip Mix,$374767.12,12,3/5/2023
+244,Telescope,$511214.62,1,15/11/2024
+245,Maple Bacon Jerky,$288626.84,2,1/5/2020
+246,Brown Sugar,$253231.65,7,22/12/2023
+247,Vegetable and Cheese Quesadillas,$948371.59,6,26/9/2021
+248,Spinach and Cheese Stuffed Shells,$409090.52,12,12/3/2022
+249,Sesame Seeds,$754636.68,19,11/7/2022
+250,Luxe Velvet Blazer,$722624.74,10,14/11/2024
+251,Wall-Mounted Wine Rack,$201348.57,18,1/3/2025
+252,Samsung Galaxy Smartwatch,$813798.46,8,17/9/2023
+253,Ceramic Cookware Set,$322162.45,7,8/1/2022
+254,Sesame Ginger Dressing,$209863.06,9,1/5/2025
+255,Cocoa Powder,$422573.65,1,25/11/2024
+256,Reversible Swimming Pool Lounger,$12731.14,9,15/7/2022
+257,Cinnamon Roll Protein Bar,$945016.07,4,6/9/2022
+258,Garlic Herb Grilled Chicken,$900673.81,4,18/8/2025
+259,Classic Minestrone Soup,$17888.95,13,17/6/2021
+260,Peanut Butter Banana Smoothie Mix,$836905.94,20,30/6/2025
+261,LED Strip Lights,$769969.12,14,22/8/2020
+262,Portable Folding Picnic Table,$652182.61,20,3/9/2024
+263,Chocolate Hazelnut Granola,$255554.51,14,7/9/2021
+264,Caramel Apple Chips,$239509.87,15,24/11/2024
+265,Jennifer's Amazing Lip Balm Kit,$868493.81,16,18/3/2021
+266,Lemon Sorbet,$413744.91,20,3/9/2020
+267,Canned Black Beans,$432094.60,12,1/7/2021
+268,Travel Luggage Scale,$44368.38,13,6/3/2022
+269,Strawberry Banana Smoothie Pack,$346252.55,1,24/9/2020
+270,Portable Pet Bathing Tool,$210302.71,16,10/1/2026
+271,Utility Cargo Pants,$763802.61,20,17/1/2022
+272,Spicy Chicken Wings,$815871.03,1,9/8/2024
+273,Magnetic Chess Set,$553212.14,13,21/6/2023
+274,Compact Pop-Up Tent,$968321.04,19,16/10/2024
+275,Digital Wireless Meat Thermometer,$598417.95,20,26/1/2024
+276,Margherita Pizza,$756980.28,7,17/8/2023
+277,Grilled Veggie Burgers,$983307.12,20,16/5/2024
+278,Casual Cropped Sweater,$764876.41,16,10/4/2020
+279,Green Tea Matcha Powder,$808182.33,17,24/11/2021
+280,Wireless Printer,$409079.06,1,7/5/2020
+281,Wall-Mounted Bookshelf,$11018.80,18,9/7/2020
+282,Classic Black Dress,$530068.77,18,5/9/2024
+283,Garlic Breadsticks,$492811.35,5,4/1/2020
+284,Organic Cereal Bars,$378978.77,13,14/3/2024
+285,Reversible Comforter Set,$368914.77,6,28/5/2023
+286,Pet Bed with Removable Cover,$627068.13,6,29/9/2022
+287,Kale Chips,$629689.24,13,1/1/2020
+288,Pet Training Clicker,$316988.70,8,14/9/2023
+289,Vegetable Quinoa Bowl,$447803.26,8,7/4/2021
+290,Tabletop Fire Pit,$167318.28,19,1/3/2024
+291,Indoor Grill,$854731.72,4,12/3/2024
+292,Curried Lentil Salad,$447075.48,14,13/8/2023
+293,Cranberry Orange Juice,$160254.23,17,21/8/2021
+294,Garden Hoses with Expandable Features,$407694.56,7,12/11/2021
+295,Peanut Butter Filled Pretzels,$901932.62,6,25/9/2021
+296,Infrared Space Heater,$571945.08,5,9/6/2023
+297,Tailgating Set,$735284.99,18,3/2/2021
+298,Wooden Blocks,$568548.36,14,9/11/2025
+299,Garden Vegetable Chips,$861843.21,7,8/9/2023
+300,Pesto Genovese,$949213.88,10,29/4/2020
+301,Electric Fondue Pot,$62803.21,5,1/7/2021
+302,Coconut Chia Pudding,$400415.25,16,16/9/2022
+303,Training Soccer Ball,$377480.19,5,12/9/2024
+304,Mint Chocolate Chip Ice Cream,$907882.56,6,2/3/2023
+305,Herbed Mushroom Risotto,$171946.47,10,8/3/2020
+306,Organic Green Lentils,$462873.13,9,27/12/2025
+307,Whole Grain Hamburger Buns,$879574.64,8,23/12/2024
+308,Garden Hose Reel,$949630.72,8,18/1/2020
+309,Organic Granola Cereal,$500581.92,17,18/3/2021
+310,Kale Chips,$119653.38,17,18/9/2021
+311,Almond Quinoa Salad,$679118.96,14,5/3/2022
+312,Warm Knit Beanie,$394016.70,13,2/9/2020
+313,Maple Bacon Jerky,$282526.93,20,2/11/2025
+314,Cranberry Orange Oatmeal,$608950.10,6,10/1/2024
+315,Orange Ginger Vinaigrette,$517879.61,6,18/12/2025
+316,Mini Meatballs,$782048.84,3,12/3/2022
+317,Electrolyte Water Bottle,$799799.06,14,13/11/2022
+318,Stylish Wide-Leg Trousers,$902132.78,8,21/6/2020
+319,Microfiber Cleaning Cloth Set,$432407.56,14,3/4/2023
+320,Savory Italian Herbs,$701249.25,2,30/5/2025
+321,Pet Carrier,$784543.90,6,27/7/2020
+322,Garlic and Herb Cream Cheese,$520262.39,3,23/3/2023
+323,USB Wall Charger,$720166.46,12,9/6/2020
+324,Durable Hiking Boots,$604292.31,9,13/2/2023
+325,Whole Roasted Chicken,$598910.01,9,9/11/2023
+326,Garlic Parmesan Roasted Nuts,$737530.76,14,18/7/2021
+327,Personalized Keychain,$958196.81,14,26/11/2025
+328,Protein Bar Variety Pack,$554161.93,17,3/11/2024
+329,Non-Toxic Crayons for Kids,$582320.12,15,13/8/2022
+330,Gardening Gloves,$307720.49,2,6/1/2023
+331,Caraway Rye Bread,$714982.39,12,14/11/2023
+332,Coffee Grinder,$354197.97,15,29/11/2022
+333,Garlic Herb Grilled Chicken,$583787.94,6,25/7/2022
+334,Vegetable Stir-Fry Kit,$719758.62,12,18/4/2021
+335,Adjustable Skipping Rope,$425127.73,6,9/7/2022
+336,Roasted Garlic Butter,$720389.83,14,26/2/2020
+337,Fitness Resistance Bands Kit,$17215.45,14,2/5/2023
+338,Baby Safety Corner Guards,$288609.03,19,24/11/2022
+339,Antique Style Clock,$416079.54,14,19/7/2023
+340,Dog Frisbee Toy,$193690.64,16,4/5/2023
+341,Electric Hot Pot,$244897.94,9,6/4/2025
+342,Zucchini,$217881.56,12,5/7/2023
+343,Coffee Making Kit,$136143.51,17,3/8/2025
+344,Woven Storage Baskets,$125562.57,19,6/8/2025
+345,Organic Cucumber,$451447.91,9,20/9/2020
+346,Warm Knit Beanie,$290147.50,10,10/6/2024
+347,Mayonnaise,$822889.88,13,14/10/2021
+348,Adjustable Laptop Desk,$640194.69,17,12/7/2021
+349,Cranberry Almond Granola,$204706.63,13,9/10/2025
+350,Almond Milk Yogurt,$169475.16,2,18/8/2020
+351,Caribbean Jerk Marinade,$487492.32,16,17/6/2025
+352,Smart LED Desk Lamp,$320796.61,7,26/5/2025
+353,Pleated Midi Dress,$410592.22,11,21/11/2024
+354,Pet Waterer with Filtration,$760809.29,9,31/12/2022
+355,Honey Roasted Almonds,$802758.21,14,28/1/2025
+356,Teriyaki Salmon Fillets,$565352.33,16,28/9/2023
+357,Pasta (Fusilli),$547409.96,1,25/1/2020
+358,Whole Grain Hamburger Buns,$566829.69,11,29/3/2024
+359,Wireless Charger,$748580.48,11,29/1/2025
+360,Pomegranate Juice,$826455.49,3,24/4/2024
+361,Honey-Balsamic Vinaigrette,$234434.15,6,23/2/2022
+362,Cinnamon Spiced Almonds,$995854.30,15,23/7/2022
+363,Electric Heat Pad,$117961.79,20,30/12/2021
+364,Cat Tree with Scratching Posts,$984588.04,18,27/2/2020
+365,Magnetic Phone Case,$669365.01,8,13/9/2023
+366,Whole Grain Mustard,$706142.99,6,29/9/2022
+367,Yoga Strap,$335337.90,6,22/12/2025
+368,Tandoori Chicken Marinade,$607290.85,7,24/9/2022
+369,Low-Fat Yogurt,$276286.21,3,24/12/2024
+370,Wall Calendar,$366077.91,12,1/5/2023
+371,Maple Bacon Popcorn,$114353.11,6,13/12/2024
+372,Eco-Friendly Disposable Plates,$327009.49,14,4/8/2024
+373,Californian Raisins,$954850.70,3,21/7/2021
+374,Tropical Fruit Bowl,$522796.20,4,31/8/2024
+375,Sesame Garlic Noodles,$572437.13,15,20/11/2022
+376,Almond Flour Brownies,$837906.72,13,15/7/2023
+377,Garlic Herb Seasoning,$196018.15,13,16/2/2025
+378,Sweet BBQ Dipping Sauce,$833654.79,13,22/9/2020
+379,Biodegradable Dog Waste Bags,$927969.19,16,30/4/2020
+380,Creamy Avocado Dip,$775467.77,9,25/4/2020
+381,Chipotle Black Bean Burger,$73837.01,14,19/2/2021
+382,Car Emergency Kit,$674258.84,12,17/11/2025
+383,Vegetarian Sausage Links,$35806.55,16,22/11/2023
+384,Chunky Knit Sweater,$878014.81,17,28/2/2021
+385,Spicy Italian Sausage,$753498.75,6,25/1/2025
+386,Tailgating Set,$44093.53,4,20/3/2020
+387,Tabletop Fire Pit,$974034.21,7,29/3/2024
+388,Mediterranean Flatbread,$872118.88,19,3/11/2020
+389,Shredded Cheese,$941216.27,12,1/7/2021
+390,Dried Fruit Medley,$435389.84,14,15/11/2024
+391,Canned Coconut Milk,$348285.84,11,8/4/2023
+392,Nut Butter Cups,$810494.05,13,13/4/2024
+393,Jasmine Rice,$775573.51,9,29/1/2024
+394,Portable Charger with Solar Panel,$129260.41,20,2/7/2020
+395,Mango Chia Pudding,$492256.70,6,17/8/2020
+396,Sliced Cucumbers,$948049.00,18,12/5/2025
+397,Leather Notebook Cover,$602447.84,11,16/8/2020
+398,Relaxed Fit Henley Shirt,$770394.87,12,10/5/2021
+399,Portable Massage Gun,$300843.27,9,28/6/2021
+400,Matcha Green Tea Powder,$968698.84,7,9/10/2021
+401,Window A/C Unit,$390512.31,12,29/10/2021
+402,Body Wash,$987230.53,14,20/3/2025
+403,Classic Baseball Cap,$901757.75,19,14/11/2021
+404,Compact Refrigerator,$281188.37,13,13/2/2020
+405,Whisk Set,$186937.06,5,23/7/2023
+406,Mango Chunks,$907567.44,3,29/10/2020
+407,Car Windshield Sun Shade,$837381.28,7,17/5/2024
+408,Travel Pillow with Memory Foam,$667964.05,8,15/8/2020
+409,Cauliflower Crust Pizza,$29394.11,16,12/6/2025
+410,Relaxed Fit Henley Shirt,$478022.30,1,21/1/2025
+411,Sweet Corn,$125223.84,1,24/3/2022
+412,Vegan Mac & Cheese,$366028.85,15,13/8/2022
+413,Home Office Chair,$518101.85,13,9/3/2022
+414,Stainless Steel Mixing Bowls,$22861.86,8,17/3/2022
+415,Magnetic Phone Case,$552015.97,14,29/5/2021
+416,Sporty Slide Sandals,$596679.86,3,28/3/2020
+417,Decorative Wall Tapestry,$859999.44,12,20/9/2020
+418,Cranberry Almond Biscotti,$381561.85,10,27/9/2023
+419,Oven-Baked Sweet Potato Fries,$981974.53,18,12/8/2023
+420,Pumpkin Puree,$665266.84,17,13/8/2025
+421,Yoga Blocks,$156127.67,19,21/4/2024
+422,Cookbook,$569569.07,3,9/5/2024
+423,Wi-Fi Enabled Smart Light Switch,$354492.03,14,12/4/2023
+424,Sea Salt Caramel Brownie,$329705.27,20,29/12/2021
+425,Organic Quinoa Salad,$501259.34,8,18/1/2022
+426,Tailgating Set,$157605.94,10,3/9/2025
+427,Sriracha Honey Glaze,$396809.80,4,16/1/2022
+428,Hiking Water Bottle with Filter,$374571.96,20,4/11/2023
+429,Stainless Steel Cutlery Set,$930808.93,5,29/1/2020
+430,Multi-Purpose Marine Rope,$795914.53,2,31/12/2025
+431,Eco-Friendly Notepad,$599212.77,19,5/1/2022
+432,Puffer Winter Coat,$469048.11,5,31/7/2020
+433,Falafel Mix,$766909.21,11,20/4/2020
+434,Sweet Corn,$261216.91,15,8/5/2025
+435,Self-Watering Planters,$4258.40,2,13/1/2024
+436,Banana Peanut Butter Smoothie,$15518.69,14,10/4/2022
+437,Reusable Snack Bags,$82311.71,19,8/1/2024
+438,Cat Scratching Post with Toys,$334298.48,16,18/11/2021
+439,Luxury Memory Foam Mattress Topper,$879992.89,4,27/1/2023
+440,Pest Control Traps,$186353.12,10,1/7/2024
+441,Silicone Ice Cube Tray,$571858.30,16,17/1/2023
+442,Banana Nut Muffins,$440161.29,13,11/2/2024
+443,Wireless Keyboard and Mouse Combo,$759506.03,10,11/7/2022
+444,Bike Repair Tool Kit,$130704.63,12,19/6/2020
+445,Electric Razor,$654789.52,15,26/3/2020
+446,Fitbit Activity Tracker,$342109.43,4,28/8/2024
+447,Eco-Friendly Cleaning Cloths,$452013.95,15,24/7/2020
+448,Handheld Vacuum,$697297.05,11,9/4/2023
+449,Bluetooth Sleep Headphones,$184874.18,2,1/2/2023
+450,Fresh Basil,$357986.84,19,11/3/2021
+451,Essential Oil Roller Bottles,$111331.80,19,21/12/2022
+452,Wireless Induction Charger,$229798.70,1,12/4/2021
+453,High-Pressure Handheld Shower Head,$910692.81,7,12/7/2024
+454,Camera Tripod,$767965.81,18,9/6/2022
+455,Greek Feta Cheese,$501206.04,19,3/3/2025
+456,LED Strip Lights Kit,$95317.93,20,15/4/2022
+457,Honey Garlic Sauce,$469811.69,19,21/8/2024
+458,Bluetooth Sleep Headphones,$504389.85,13,28/3/2024
+459,Kids' Activity Book,$95982.29,3,14/1/2022
+460,Dried Mango Slices,$18126.81,15,7/2/2022
+461,Non-Toxic Crayons for Kids,$116499.72,18,14/6/2022
+462,Honey Wheat Pretzels,$468067.60,16,17/3/2020
+463,Personal Blender with Cups,$625561.20,1,22/12/2021
+464,Blue Corn Tortilla Chips,$170895.74,2,5/12/2021
+465,Artisan Bread Loaf,$288585.29,12,6/7/2021
+466,Brown Sugar,$974663.76,4,9/3/2020
+467,Golf Putting Green,$985096.07,14,27/4/2022
+468,Lockable Bicycle Chain,$533012.13,12,13/7/2022
+469,Toilet Paper (12 rolls),$580675.72,9,28/5/2024
+470,Maple Pecan Granola,$196940.16,13,11/8/2021
+471,Noise-Canceling Earbuds,$426157.67,15,20/6/2021
+472,Electric Kettle,$904354.52,5,21/1/2020
+473,Tattoo Kit,$918609.26,3,24/6/2022
+474,Portable Laptop Table,$383379.70,10,14/1/2022
+475,Honey Nut Cheerios,$531220.07,2,4/7/2025
+476,Coconut Macaroons,$231930.06,12,30/12/2025
+477,Salsa Verde,$778901.73,4,18/9/2024
+478,Handmade Wooden Utensil Set,$588103.81,6,9/12/2021
+479,Ceramic Non-Stick Frying Pan,$113996.62,1,7/11/2022
+480,Honey Glazed Carrots,$183323.44,19,5/11/2023
+481,Puff Pastry,$179657.11,10,15/5/2022
+482,Utility Cargo Pants,$667044.72,2,14/2/2023
+483,Samsung Galaxy Smartwatch,$531761.91,12,9/11/2020
+484,Electric Butter Churn,$947478.68,11,13/5/2021
+485,Lentil Soup,$171914.29,14,3/10/2021
+486,Travel Jewelry Case,$160477.78,10,1/11/2022
+487,Savory Oatmeal Cups,$778513.73,14,10/6/2024
+488,Fried Rice,$555525.31,18,15/7/2023
+489,Turkey Bacon,$564514.40,5,13/11/2022
+490,Compact Shoe Rack,$729174.58,5,14/11/2021
+491,Roasted Red Pepper Dip,$918800.67,18,17/1/2025
+492,Glass Water Bottle,$674613.70,13,11/6/2020
+493,Brown Rice,$148454.53,13,11/5/2023
+494,Mango Chilli Sauce,$286598.97,13,30/4/2025
+495,Baking Soda,$406059.30,10,13/2/2020
+496,Dog Training Clicker,$345487.49,10,28/11/2020
+497,Electric Rice Cooker with Steamer,$80764.11,2,29/12/2024
+498,Pasta Maker Machine,$402860.53,4,7/1/2022
+499,Yoga Blocks,$77335.18,8,2/7/2025
+500,Apple Juice,$479381.89,3,31/8/2021
+501,Chickpea Salad Deluxe,$534410.26,17,18/10/2021
+502,Stylish Combat Boots,$106539.88,13,9/11/2023
+503,Peanut Butter Chocolate Clusters,$312036.82,14,11/3/2020
+504,Watercolor Paint Set,$912881.64,3,14/12/2022
+505,Vintage Graphic Tee,$479675.98,6,21/3/2024
+506,LED Desk Lamp,$599025.89,13,20/5/2023
+507,Italian Sausage Links,$549658.38,4,15/5/2023
+508,Garlic Butter Sauce,$673200.00,17,29/9/2025
+509,Buffalo Stilton Cheese,$633584.74,2,14/3/2021
+510,Peach Halves (canned),$329047.09,16,19/12/2020
+511,Portable Pet Water Bottle,$553273.01,11,26/7/2025
+512,Frozen Cauliflower Rice,$819339.52,1,18/2/2022
+513,Reusable Silicone Food Storage Bags,$862546.07,12,3/11/2022
+514,Cork Yoga Mat,$430895.57,4,25/5/2021
+515,Tandoori Chicken Skewers,$515578.54,13,16/12/2022
+516,Organic Green Tea,$318703.25,6,1/1/2022
+517,Pistachios,$516571.50,19,10/1/2020
+518,Apple Cinnamon Breakfast Muffins,$807589.24,3,22/6/2025
+519,Personal Safety Alarm,$856256.24,4,7/5/2024
+520,Chicken Fajita Kit,$859083.30,8,13/2/2022
+521,Nordic Berry Smoothie,$355105.88,19,3/5/2022
+522,Teriyaki Chicken Wings,$858692.78,12,10/11/2020
+523,Adjustable Garden Rake,$342777.20,15,22/5/2023
+524,Cinnamon Roll Kit,$671691.99,3,6/6/2021
+525,Pet Training Pads,$666314.48,20,6/10/2020
+526,Magnetic Phone Case,$589259.19,3,17/11/2023
+527,Handheld Garment Steamer,$1627.70,7,21/6/2021
+528,Luxury Bath Robe,$735154.39,19,20/11/2023
+529,Scent Diffuser Oil,$907832.99,11,4/6/2025
+530,Yoga Mat Carrier,$687677.94,19,7/12/2021
+531,Cinnamon Roll Protein Bar,$432815.00,14,8/12/2022
+532,Travel Sewing Kit,$174615.65,20,30/12/2025
+533,Face Mask Set,$908638.35,15,12/3/2023
+534,LED Makeup Mirror,$837827.49,6,18/3/2022
+535,Chic Jumpsuit,$676711.34,12,23/5/2023
+536,Homestyle Chicken Noodle Soup,$589743.71,8,7/9/2020
+537,Gluten-Free Biscuits,$12515.87,4,16/8/2024
+538,Stuffed Bell Peppers,$328633.45,3,20/7/2021
+539,Cherry Almond Protein Bar,$234864.22,18,20/11/2020
+540,Classic Beef Chili,$151966.87,10,23/6/2020
+541,Pet Reflective Vest,$449652.43,20,19/10/2024
+542,Educational STEM Kit,$761877.67,4,15/6/2022
+543,Shredded Cheese,$380852.16,3,2/7/2021
+544,LED Strip Lights,$923738.34,14,8/12/2022
+545,Organic Black Beans,$799666.12,17,6/9/2024
+546,Cordless Electric Screwdriver,$454280.86,8,7/7/2024
+547,Reflective Safety Vest,$398491.18,18,17/2/2022
+548,Canvas Wall Art,$449618.08,10,6/9/2023
+549,Portable Water Filter,$972514.66,10,23/8/2024
+550,Classic BBQ Sauce,$728244.59,12,14/8/2023
+551,Bamboo Charcoal Air Purifier Bags,$524781.72,20,15/9/2025
+552,Camping Chair,$262560.27,10,31/7/2020
+553,Tea Infuser,$815548.33,12,31/7/2021
+554,Pumpkin Pie Spice,$843863.27,2,21/8/2023
+555,Electric Pressure Washer,$738481.69,4,28/7/2021
+556,Pet Bed,$696669.20,7,2/4/2020
+557,Barbecue Chicken Pizza,$523109.80,12,18/1/2024
+558,Fruit Infuser Water Bottle,$476014.01,6,17/11/2022
+559,Artisan Flatbreads,$95891.52,17,8/11/2022
+560,Portable Solar Charger,$596868.54,8,10/11/2021
+561,Insulated Wine Tote,$990974.26,4,23/8/2023
+562,Suede Ankle Booties,$975590.96,16,4/2/2020
+563,Car Trash Can,$182167.52,3,18/8/2024
+564,Lockable Bicycle Chain,$490502.78,18,6/2/2023
+565,Pet Grooming Scissors,$151007.57,17,1/8/2023
+566,Mediterranean Flatbread,$368453.53,6,20/5/2020
+567,Window Blinds,$120474.30,20,24/2/2023
+568,Jalapeño Cornbread,$380448.63,8,22/6/2021
+569,Spicy Snack Mix,$523412.75,4,25/2/2025
+570,Fitness Activity Journal,$280730.04,1,19/4/2021
+571,Gluten-Free Brownies,$532985.68,4,9/12/2025
+572,Cucumber Relish,$354763.78,8,3/3/2025
+573,Caramel Sauce,$494474.22,13,16/12/2020
+574,Digital Alarm Clock,$228332.48,19,21/5/2020
+575,Gardening Fairy Figurines,$759113.28,11,3/5/2021
+576,Chocolate Protein Powder,$603571.01,9,26/6/2022
+577,USB Desk Fan,$205547.24,20,10/12/2022
+578,Wireless HDMI Transmitter,$765781.24,6,1/10/2020
+579,Mini Meatballs,$418053.55,10,3/8/2021
+580,Herb Seasoned Rice,$605610.21,15,26/6/2023
+581,Personalized Pet ID Tags,$644301.50,12,23/3/2022
+582,Instant Read Meat Thermometer,$188389.98,17,4/2/2024
+583,Reversible Comforter Set,$876391.74,7,2/3/2021
+584,Luxury Memory Foam Mattress Topper,$312608.85,16,2/7/2025
+585,Portable Pet Stroller,$728832.76,16,15/9/2020
+586,Chicken Fajita Kit,$384878.30,13,23/1/2024
+587,Insulated Cooler,$522456.42,6,22/6/2023
+588,Vegetable Fried Rice Mix,$499530.51,12,7/11/2025
+589,Vintage Graphic Tee,$205942.33,20,17/6/2024
+590,Garlic Naan Bread,$59735.76,13,10/1/2024
+591,Mini Indoor Herb Garden Kit,$243039.38,19,25/4/2021
+592,LED Table Lamp,$868038.85,12,20/11/2023
+593,Pleated Midi Dress,$160666.06,5,30/1/2023
+594,Insulated Lunch Bag,$971852.06,5,29/2/2020
+595,Ethical Wool Scarf,$247303.01,18,3/8/2020
+596,Kitchen Scale,$659947.20,5,23/8/2024
+597,Peach Green Tea,$242952.16,18,3/7/2023
+598,Gardening Kneeler and Seat,$251891.29,12,18/2/2021
+599,Almond Flour Pizza Crust,$710064.68,7,7/6/2020
+600,Pasta Primavera,$256337.93,15,11/1/2022
+601,Chipotle Lime Salsa,$906269.78,18,21/11/2024
+602,Smoked Paprika,$661598.04,4,30/4/2020
+603,Tomato Basil Pasta Sauce,$326331.66,13,17/10/2025
+604,Mini Pretzels,$850153.81,17,2/4/2020
+605,Desk Organizer Set,$17790.75,1,9/7/2022
+606,Classic Baseball Cap,$802982.87,5,21/4/2020
+607,Essential Oil Roller Bottles,$13886.37,9,31/12/2022
+608,Lemon Pepper Seasoning,$559880.68,4,10/5/2021
+609,Silicone Baking Molds,$10971.42,12,30/9/2024
+610,Fitness Resistance Bands Set,$359785.87,1,9/11/2022
+611,Silicone Baking Mats,$505215.81,4,20/7/2022
+612,Indestructible Dog Toy,$577590.62,19,4/2/2021
+613,Adjustable Garden Rake,$547397.34,13,9/5/2023
+614,Herbed Goat Cheese,$964872.46,4,4/5/2022
+615,Vegetable Spring Rolls,$955131.10,3,8/7/2025
+616,Graphic Tee,$206484.83,14,4/1/2023
+617,Bodyweight Resistance Bands,$348699.65,9,3/11/2020
+618,Coconut Bowls Set,$65730.50,10,16/4/2025
+619,Foot Massager Machine,$156538.11,8,23/10/2020
+620,Portable Laptop Table,$348262.81,4,20/2/2025
+621,Oversized Denim Shirt,$652616.08,9,5/2/2024
+622,Inflatable Party Cooler,$711207.81,4,23/2/2020
+623,Wireless Earbuds,$874054.50,15,24/4/2023
+624,Trackpad for Laptop,$604885.08,20,10/8/2025
+625,Wireless Mouse,$882110.09,19,15/5/2024
+626,Grass Fed Beef Patties,$117375.88,17,4/8/2023
+627,Fresh Lemons,$200049.93,16,8/1/2025
+628,Whole Grain Mustard,$706665.75,10,12/4/2023
+629,Balsamic Vinaigrette,$354306.89,12,2/11/2024
+630,Adjustable Laptop Desk,$787804.38,14,18/5/2025
+631,Toasted Coconut Granola,$38357.37,6,24/11/2024
+632,Italian Sausage and Peppers,$892434.56,3,8/7/2025
+633,Backpacking Tent,$908185.29,14,5/1/2025
+634,Organic Spinach,$599356.09,16,23/2/2024
+635,Pasta Portion Control Measure,$784999.20,20,22/3/2025
+636,Organic Baby Carrots,$937805.74,9,21/4/2022
+637,Organic Sweet Potatoes,$407538.19,19,11/3/2020
+638,Mint Chocolate Chip Ice Cream,$661094.86,11,5/8/2022
+639,Savory Oats,$805054.96,8,22/11/2025
+640,Buffalo Chicken Dip,$473713.94,12,3/9/2025
+641,Apple Cinnamon Granola,$839346.31,3,11/10/2020
+642,Portable Jump Starter,$801396.75,10,27/9/2021
+643,Maple Chipotle Glaze,$508291.18,10,15/10/2021
+644,Whole Wheat Pasta,$588549.22,8,20/10/2024
+645,Balsamic Vinegar,$883243.45,17,31/12/2020
+646,Peanut Butter Chocolate Chip Bars,$225914.33,2,10/9/2022
+647,Collapsible Storage Crates,$208035.11,5,26/10/2020
+648,Decorative LED Neon Sign,$878468.74,14,16/1/2025
+649,Artisan Bread,$950920.07,12,16/1/2024
+650,Athletic Jogging Jacket,$151243.87,1,5/4/2023
+651,Vegetable Stock,$298587.66,19,18/9/2024
+652,Basic V-Neck T-Shirt,$732947.92,10,4/11/2023
+653,Dark Chocolate Tart,$904352.94,9,9/10/2025
+654,Honey,$437255.52,14,26/9/2020
+655,Organic Sweet Potatoes,$416592.65,13,31/7/2020
+656,Instant Read Meat Thermometer,$910716.21,15,2/7/2022
+657,Berries Medley,$939583.59,3,1/5/2022
+658,Glass Water Bottle,$581600.41,18,11/8/2020
+659,LED Desk Lamp with USB Charging Port,$165012.44,19,1/12/2024
+660,Almond Coconut Granola,$520353.61,16,29/1/2020
+661,Air Fryer,$677865.86,12,29/9/2024
+662,Wildflower Honey,$647522.85,2,7/5/2020
+663,Roasted Chickpeas,$121180.48,20,9/10/2022
+664,Pork Chops,$257984.25,9,13/6/2025
+665,Pesto Genovese,$589412.62,12,22/2/2020
+666,Coconut Yogurt,$839661.12,3,11/11/2025
+667,Fitness Tracker Band,$379201.18,11,11/3/2025
+668,Egg Noodles,$109900.73,9,26/5/2023
+669,Lemon Sorbet,$938375.05,15,13/2/2022
+670,Collapsible Camping Cup,$394578.09,7,18/11/2024
+671,Kids' Trampoline,$694560.96,8,30/8/2024
+672,Leather Biker Jacket,$73882.35,1,6/1/2023
+673,Homestyle Beef Stew,$103019.83,18,31/10/2025
+674,Collapsible Camping Cup,$999277.41,6,14/11/2025
+675,Puzzle 3D Model Kit,$911235.16,8,13/12/2022
+676,Sports Bottle,$18087.97,11,22/5/2020
+677,Tattoo Kit,$805388.92,8,9/7/2021
+678,Almond Milk Yogurt,$594924.81,20,20/2/2025
+679,Chiffon Blouse,$822057.86,4,18/1/2021
+680,Coffee Capsule Dispenser,$641015.12,3,7/9/2020
+681,Warm Wool Sweater,$262750.90,14,3/10/2025
+682,Summer Tank Dress,$213607.44,16,14/2/2022
+683,Basmati Rice,$959703.20,17,23/10/2024
+684,Kids Tablet,$87710.17,18,7/5/2025
+685,Frozen Edamame,$381341.60,9,11/9/2025
+686,Frozen Salmon Filets,$81065.02,7,17/5/2023
+687,Greek Feta Cheese,$178872.97,5,17/4/2021
+688,Coconut Curry Chicken,$280346.91,19,11/6/2024
+689,Garlic Parmesan Roasted Nuts,$313462.68,3,24/8/2021
+690,Scent Diffuser Oil,$668289.05,20,8/1/2022
+691,Yoga Strap,$926229.64,16,20/12/2023
+692,Indian Curry Sauce,$605352.61,4,27/8/2025
+693,Smartphone Stand,$867040.86,20,25/3/2022
+694,Honey mustard chicken tenders,$760725.46,13,13/2/2023
+695,Rechargeable Laptop Battery Pack,$53207.46,11,31/8/2020
+696,Self-Adhesive Wallpaper,$329959.43,10,22/9/2020
+697,Smartphone Camera Lens Kit,$632756.89,20,17/5/2025
+698,Low-Fat Yogurt,$538899.36,14,9/1/2020
+699,Photo Album,$429263.27,16,8/11/2025
+700,Indoor Grill,$66291.67,8,1/4/2022
+701,Garlic and Herb Cream Cheese,$721290.43,1,25/5/2020
+702,A-Line Skirt,$825022.41,1,4/3/2023
+703,Smart Thermostat with Wi-Fi,$384148.22,15,17/8/2024
+704,Graphic Print Leggings,$290682.89,9,22/8/2022
+705,Cinnamon Raisin Bread,$623758.72,8,15/10/2020
+706,Cotton Tote Bag Set,$219227.53,7,28/12/2023
+707,Matcha Green Tea Powder,$946234.42,19,16/6/2020
+708,Frozen Mixed Vegetables,$439238.14,11,18/10/2024
+709,Pet Travel Bed,$212618.68,3,30/9/2021
+710,Fruit Infuser Water Bottle,$645710.39,6,9/9/2025
+711,Buffalo Wing Sauce,$707601.72,14,7/8/2020
+712,Bike Repair Tool Kit,$331672.77,13,7/12/2025
+713,Gluten-Free Pancake Mix,$7075.11,15,14/10/2023
+714,Sushi Rice,$819325.15,7,22/6/2024
+715,Portable Solar Phone Charger,$342820.00,9,12/11/2023
+716,Classic White T-Shirt,$673622.00,8,14/12/2024
+717,Patterned Knit Scarf,$405864.12,8,8/4/2024
+718,Animal Paw Print Soap Dispenser,$28513.72,14,28/4/2021
+719,Gluten-Free Bread,$375459.10,5,19/4/2023
+720,Video Camera,$508785.19,18,21/12/2021
+721,Peanut Butter Pretzel Nuggets,$884472.11,6,22/2/2025
+722,Samoas Cookie Mix,$150245.12,11,19/2/2022
+723,Basil Pesto Pasta,$44658.54,2,29/11/2021
+724,DIY Organic Gardening Kit,$178875.18,7,25/11/2025
+725,Lightweight Rain Jacket,$863618.21,14,31/8/2024
+726,Tea Set with Infuser,$319645.60,1,13/12/2020
+727,Pasta Primavera Kit,$487607.22,3,13/5/2023
+728,Memory Foam Mattress Topper,$828532.72,20,3/7/2025
+729,Customizable Name Plate,$249401.99,6,17/4/2021
+730,Vegan Taco Seasoning,$285068.30,2,11/12/2025
+731,Coconut Curry Lentils,$5332.55,8,13/11/2024
+732,Sooji (Semolina),$669102.76,13,8/11/2020
+733,Golf Putting Green,$68369.35,2,7/12/2021
+734,Cacao Nibs,$225234.65,17,4/4/2023
+735,Bicycle Lock,$942041.16,12,8/7/2023
+736,Lemonade Mix,$794860.72,3,24/5/2020
+737,Fall-Themed Table Runner,$316474.41,15,13/10/2020
+738,Pumpkin Spice Pancake Mix,$660794.97,18,14/3/2021
+739,Digital Alarm Clock,$565357.18,14,10/2/2021
+740,Pressure Cooker,$726523.83,16,5/7/2023
+741,Survival Gear Kit,$762827.23,2,4/9/2021
+742,Red Lentil Pasta,$141716.67,2,15/11/2022
+743,Vegetarian Stir Fry Sauce,$259132.41,19,25/10/2023
+744,Almond Milk,$119485.94,12,18/8/2024
+745,Outdoor Adventure Backpack,$35979.02,11,9/7/2025
+746,Coconut Cream Pie,$879377.53,1,3/1/2022
+747,Watering Can with Nozzle,$133986.11,19,4/2/2023
+748,Vegetable Stir-Fry Kit,$148416.58,1,22/6/2022
+749,Chicken Salad Kit,$813939.54,5,29/10/2022
+750,Cucumber,$402340.51,9,10/10/2021
+751,Smartphone Stand,$281449.39,1,25/9/2020
+752,Cranberry Juice,$744610.31,11,24/9/2021
+753,Banana Nut Oatmeal Cups,$330530.42,7,20/2/2021
+754,Quinoa,$763625.24,13,21/9/2021
+755,Sporty Cap,$262097.26,12,10/5/2022
+756,Cranberry Almond Granola,$530495.67,8,3/6/2022
+757,Oven-Baked Cheese Crisps,$193191.41,3,14/5/2022
+758,Beef Sirloin Steak,$959660.11,18,2/4/2023
+759,Wall-Mounted Organizer,$522500.54,9,11/10/2020
+760,Two-Tone Windbreaker,$625860.80,15,2/8/2025
+761,Roasted Garlic Aioli,$346157.26,4,15/10/2023
+762,Thai Green Curry Paste,$321819.20,3,14/8/2021
+763,Berries Medley,$146945.04,19,3/1/2021
+764,Frozen Mixed Berries,$801782.00,4,3/7/2023
+765,Cinnamon Raisin Bagels,$260257.19,2,2/1/2023
+766,Tactical Backpack,$469806.80,17,16/3/2023
+767,Kale Caesar Salad Kit,$836498.57,14,13/2/2021
+768,Garlic Herb Grilled Chicken,$583419.32,10,29/11/2022
+769,Adjustable Kneeling Pad,$759945.13,10,9/10/2023
+770,Peanut Butter Banana Smoothie,$695896.27,12,20/9/2024
+771,Nail Polish Set,$345080.22,5,18/4/2021
+772,Bamboo Utensil Holder,$367026.99,5,13/3/2023
+773,Electric Pressure Washer,$219870.53,16,14/12/2024
+774,Essential White Button-Up,$767580.59,17,17/6/2021
+775,Almond Coconut Granola,$956154.18,13,27/6/2020
+776,Blueberry Chia Jam,$941074.52,10,4/7/2020
+777,Mango Chutney,$571317.91,17,23/4/2025
+778,Canned Black Beans,$532099.46,6,13/3/2020
+779,Pet Travel Bowl,$683295.64,18,30/10/2023
+780,Wireless Security System,$666115.91,17,15/10/2024
+781,Wireless Gaming Headset,$237144.32,9,14/5/2022
+782,Nutty Trail Mix,$187687.19,16,27/6/2023
+783,Portable Speakers,$211219.75,15,11/1/2024
+784,Sweet Chili Sauce,$842725.22,6,21/2/2023
+785,Kids' Art Easel,$346435.78,8,9/8/2021
+786,Caramel Apple Chips,$878415.45,18,7/11/2024
+787,Vegetable Stock,$869531.15,13,5/2/2025
+788,Chickpea Salad,$867789.84,1,30/5/2020
+789,Cooking Utensil Set,$819424.05,5,24/10/2021
+790,Smart WiFi Plug,$187061.28,14,9/10/2024
+791,Smart LED Desk Lamp,$593895.29,2,19/2/2024
+792,Chia Seed Pudding Mix,$580753.08,18,29/10/2023
+793,Pet First Aid Kit,$358140.14,13,15/12/2021
+794,Organic Cereal Bars,$107006.78,6,24/7/2022
+795,Classic White T-Shirt,$893990.80,11,22/8/2025
+796,Whole Grain Hamburger Buns,$810568.84,19,19/5/2020
+797,Pesto Pasta Sauce,$59124.65,13,21/4/2024
+798,Balsamic Fig Dressing,$639708.13,19,9/2/2024
+799,Adjustable Standing Desk,$28754.72,13,24/5/2024
+800,Warm Wool Sweater,$469988.80,15,18/3/2023
+801,Stuffed Bell Peppers,$547553.36,15,20/4/2020
+802,Whole Grain Hamburger Buns,$256806.21,18,18/3/2020
+803,Pumpkin Spice Granola,$949256.49,4,3/11/2021
+804,Set of Decorative Storage Bins,$620076.97,19,30/9/2020
+805,Sweetened Condensed Milk,$532126.97,8,17/12/2024
+806,Beef Stroganoff Mix,$701217.59,5,26/11/2024
+807,Reusable Snack Bags,$867077.16,3,7/7/2022
+808,Garlic and Herb Cream Cheese,$450718.45,17,11/1/2023
+809,Wooden Children's Play Kitchen,$151527.44,18,20/1/2022
+810,Caramel Sauce,$674133.70,17,2/4/2025
+811,Mini Cordless Vacuum Cleaner,$991297.52,17,3/12/2023
+812,Floral Wrap Top,$620351.97,1,2/3/2023
+813,Warm Knit Beanie,$282582.59,12,2/1/2023
+814,Self-Adhesive Wallpaper,$767344.12,9,18/1/2023
+815,Coconut Almond Granola,$516681.23,6,23/7/2021
+816,Garlic & Herb Goat Cheese,$240405.86,6,4/12/2022
+817,Chickpeas,$916171.83,11,18/8/2021
+818,Pumpkin Waffles,$846826.66,12,5/8/2020
+819,Frozen Berry Blend,$397006.98,8,14/12/2021
+820,Bamboo Charcoal Air Purifier Bags,$958948.35,8,15/1/2020
+821,Garlic Herb Grilled Chicken,$377873.10,18,12/2/2023
+822,Frozen Hash Browns,$811233.71,13,29/9/2024
+823,Butternut Squash Ravioli,$182964.53,18,2/12/2025
+824,Aeropress Coffee Maker,$515074.40,8,15/5/2021
+825,Faux Fur Coat,$916589.19,12,20/10/2025
+826,Non-Stick Crepe Pan,$937842.18,15,1/6/2022
+827,Almond Butter Cookies,$701486.97,16,28/5/2023
+828,Automatic Pet Feeder,$538180.21,8,9/11/2023
+829,Magnetic Phone Car Mount,$261789.46,14,17/11/2021
+830,Whisk Set,$354639.53,4,3/9/2021
+831,Rechargeable Battery Organizer,$913736.32,19,19/3/2025
+832,Cooking Utensil Set,$612490.84,12,13/2/2025
+833,Collapsible Folding Chair,$830263.29,13,26/1/2023
+834,Portable Pet Stroller,$771806.78,20,10/7/2024
+835,Travel Luggage Scale,$97760.31,19,23/12/2022
+836,Chocolate Covered Pretzels,$325955.00,9,12/5/2025
+837,French Bread,$875202.30,14,2/5/2021
+838,Bicycle Repair Kit,$510336.22,16,20/1/2023
+839,Rechargeable Electric Screwdriver,$856914.04,8,3/10/2023
+840,Pressure Cooker,$388884.24,1,26/2/2023
+841,Chocolate Chip Pancake Mix,$459124.84,5,11/3/2023
+842,Vegetarian Chili,$434708.17,14,6/7/2021
+843,Black Bean Spaghetti,$741986.35,8,8/3/2024
+844,Curried Lentil Salad,$999036.60,17,15/4/2025
+845,Puzzle 3D Model Kit,$906596.69,7,2/10/2020
+846,Gardening Tool Belt,$698306.24,5,21/1/2023
+847,Fishing Tackle Box,$427783.96,9,17/2/2020
+848,Magnet Travel Fridge Magnets,$353743.14,19,30/4/2024
+849,Cotton Sweatpants,$597810.35,14,15/9/2025
+850,Puzzle Game Set,$642874.52,16,8/1/2022
+851,Fitness Mat,$869787.38,9,10/2/2023
+852,Kale Salad with Lemon Dressing,$665431.07,19,3/2/2020
+853,Chia Seeds,$23559.85,14,3/8/2020
+854,Plant Growing Kit,$143394.55,3,31/1/2021
+855,Watercolor Paint Set,$783533.21,15,7/9/2021
+856,Smart Doorbell,$696782.48,5,31/12/2023
+857,Cat Scratching Post with Toys,$456036.83,18,31/5/2020
+858,Fresh Strawberries,$760463.92,1,27/1/2025
+859,Buttermilk Pancakes,$353936.44,16,14/10/2023
+860,Gardening Gloves with Claws,$836075.65,15,15/6/2020
+861,Strawberry Rhubarb Jam,$955383.19,15,5/6/2022
+862,Vacuum Sealer Machine,$517193.44,13,9/9/2025
+863,Fitness Tracker with Heart Rate Monitor,$98211.75,8,13/7/2025
+864,Pecan Pie Filling,$191985.84,12,20/9/2025
+865,Mobile Workbench,$666053.04,16,4/6/2025
+866,Cabbage Slaw Mix,$727931.46,7,13/4/2022
+867,Ultra-Thin Laptop Sleeve,$231174.64,20,11/1/2025
+868,Wild Rice & Quinoa Mix,$251407.82,19,11/3/2022
+869,Smart Light Switch,$879925.06,19,7/4/2023
+870,Sporty Leggings,$436222.12,5,3/5/2023
+871,Cotton Quilted Throw Blanket,$668333.96,16,11/3/2022
+872,Organic Brown Rice Cakes,$664190.62,18,7/1/2024
+873,Kettle Chip Variety Pack,$301141.85,8,18/4/2024
+874,Pet Water Fountain with Filtration,$615252.02,2,7/11/2022
+875,Apple Pie Filling,$372129.00,13,10/1/2025
+876,Hibiscus Herbal Tea,$789481.33,13,5/8/2021
+877,Cinnamon Raisin Bagels,$395422.68,18,1/1/2022
+878,Cat Tree,$666965.73,20,6/7/2022
+879,Folding Backpack Chair,$130561.49,8,8/2/2025
+880,Pet Nail Clipper,$151180.00,19,16/8/2022
+881,Peach Mango Smoothie,$594360.14,12,16/3/2022
+882,Herbed Mushroom Risotto,$57024.04,12,24/5/2020
+883,Kale Caesar Salad Kit,$932647.96,4,2/7/2021
+884,Winter Knit Beanie,$565851.43,1,14/2/2025
+885,Travel Mug with Leak-Proof Lid,$380612.18,4,14/9/2022
+886,Flavored Popcorn Mix,$378339.86,16,3/5/2022
+887,Interactive Robot Toy,$136277.16,7,6/2/2020
+888,Organic Fruit Salad,$979528.35,2,2/10/2024
+889,Wall-Mounted Organizer,$915153.45,19,25/2/2021
+890,Chocolate Chip Cliff Bars,$974534.56,9,6/12/2020
+891,Frozen Pizza,$194730.56,12,29/9/2021
+892,Non-Toxic Concrete Sealer,$284767.81,6,21/5/2021
+893,Digital Thermostat,$235114.20,3,7/12/2021
+894,Personalized Pet ID Tags,$609157.19,5,24/10/2024
+895,Tea Infuser Bottle,$357201.92,13,18/2/2021
+896,Sweet Potato Mash,$343836.04,13,9/7/2025
+897,Linen Trousers,$894691.13,8,28/11/2025
+898,Buffalo Style Cauliflower Bites,$249159.57,13,4/5/2022
+899,Jigsaw Puzzle,$291345.77,11,24/1/2024
+900,Zesty Garlic Hummus,$443329.99,20,20/11/2022
+901,Vegan Taco Seasoning,$880549.20,5,15/1/2021
+902,LED Desk Light,$761859.51,8,2/9/2021
+903,Chickpea Salad Deluxe,$9595.02,3,16/4/2020
+904,Collapsible Colander,$803481.10,12,29/10/2022
+905,Vegetable Samosas,$256669.46,13,14/5/2024
+906,Smartphone Tripod with Remote,$438443.78,16,11/6/2024
+907,Lemon Garlic Shrimp,$190420.80,18,30/3/2022
+908,Hiking Gaiters,$774755.12,14,13/10/2021
+909,Chia Seed Pudding Mix,$130159.72,18,7/3/2024
+910,Jalapeño Cornbread,$952414.38,12,26/2/2025
+911,Outdoor Mosquito Repellent Lantern,$509648.18,20,10/9/2020
+912,Compact Electric Kettle,$222283.52,12,3/9/2023
+913,Vegetarian Sausage Links,$734742.20,15,24/3/2020
+914,Bamboo Cutting Board Set,$894145.84,12,19/4/2025
+915,Fitness Tracker Band,$436245.87,10,3/12/2023
+916,Zesty Garlic Hummus,$247452.04,13,26/1/2024
+917,Weighted Blanket for Adults,$277260.26,20,30/11/2025
+918,Organic Coconut Sugar,$655711.16,8,17/4/2024
+919,Pecan Pie Filling,$967330.67,17,9/3/2020
+920,Stuffed Peppers with Quinoa,$445082.39,15,28/4/2020
+921,Chocolate Chip Energy Balls,$545064.47,4,13/9/2023
+922,Gardening Tools Set,$893648.52,10,20/4/2023
+923,Bike Repair Tool Kit,$698184.36,11,29/11/2021
+924,Outdoor Adventure Kit,$402170.74,19,22/3/2021
+925,Wireless Induction Charger,$64043.35,6,12/5/2022
+926,High-Speed HDMI Cable,$271501.66,12,7/5/2020
+927,Breezy Off-The-Shoulder Top,$875808.32,14,30/6/2020
+928,Mango Chutney,$182191.62,14,6/10/2023
+929,Mini Projector,$704250.07,10,7/12/2023
+930,Beet Salad,$440962.10,12,21/9/2021
+931,Peanut Butter Filled Pretzels,$440580.85,8,13/11/2025
+932,Cordless Electric Screwdriver,$922515.65,9,18/1/2025
+933,Honey Mustard Sauce,$280562.82,16,4/4/2025
+934,Buffalo Sauce,$175335.47,16,20/5/2025
+935,Telescope,$562755.80,16,27/6/2021
+936,Chiffon Blouse,$753450.97,19,15/2/2023
+937,Ricotta Cheese,$901442.19,19,8/4/2021
+938,Pistachio Ice Cream,$384023.62,8,13/12/2024
+939,Personal Security Alarm Keychain,$4376.44,20,14/12/2025
+940,Caramel Apple Taffy,$950081.60,14,25/7/2025
+941,Portable Laptop Table,$381099.09,20,8/4/2025
+942,Herbed Mushroom Risotto,$806626.28,14,11/4/2022
+943,High-Quality Yoga Mat,$585906.52,14,13/3/2020
+944,Pet Travel Bowl,$141618.55,11,30/7/2022
+945,Basil Tomato Soup,$583864.78,15,21/7/2020
+946,Oven Mitts,$446752.29,20,5/8/2021
+947,Toasted Coconut Granola,$215590.70,19,18/7/2023
+948,Classic White T-Shirt,$203159.44,12,6/2/2023
+949,Dish Soap Dispenser,$642987.22,3,22/2/2020
+950,Chocolate Covered Pretzels,$885335.10,18,30/1/2023
+951,Scented Candle Set,$751918.33,11,10/9/2022
+952,Car Vacuum Cleaner,$739536.27,16,1/7/2021
+953,Electric Toothbrush Holder,$257136.50,10,9/7/2022
+954,Brussels Sprouts,$106821.29,4,27/9/2023
+955,Honey BBQ Ribs,$546421.06,6,17/9/2023
+956,Sriracha Sauce,$787797.04,6,25/11/2025
+957,Creative Puzzle Game,$448004.88,3,17/10/2022
+958,Reclining Camping Chair,$725466.05,5,10/12/2025
+959,Peanut Butter Banana Smoothie Mix,$940674.28,10,1/7/2022
+960,Teriyaki Tofu Stir-Fry,$773881.84,16,3/8/2025
+961,Almond Joy Protein Bars,$600560.74,7,21/12/2020
+962,Kid's Fruit Snacks,$433574.06,16,22/1/2022
+963,Granola,$436642.60,15,20/12/2023
+964,Rechargeable Hand Warmer,$8771.75,1,9/9/2024
+965,Mini Cordless Vacuum Cleaner,$182531.11,19,13/12/2025
+966,Almond Flour Brownies,$83950.10,20,23/8/2024
+967,Spicy Tuna Salad,$131861.86,17,26/2/2023
+968,Strawberry Banana Smoothie Pack,$623762.29,2,11/3/2024
+969,Vanilla Protein Powder,$170339.72,18,5/8/2023
+970,Electric Stir Fry Pan,$947236.94,2,25/5/2020
+971,Black Olives,$440914.84,10,24/6/2023
+972,Multi-Functional Rice Cooker,$269587.90,17,29/7/2020
+973,Smart LED Desk Lamp,$611592.93,8,18/2/2024
+974,Scented Soy Candles,$846276.86,2,16/2/2021
+975,Kids' Building Blocks,$225572.25,18,14/9/2025
+976,Tahini,$935933.45,9,28/4/2021
+977,Frozen Burritos,$92848.18,4,3/12/2021
+978,Cranberry Lime Sparkling Water,$711039.32,4,12/5/2024
+979,LED Desk Lamp with USB Charging,$667401.94,18,20/3/2024
+980,Cheddar Cheese Crackers,$335245.63,3,16/11/2020
+981,Natural Fruit Snacks,$585357.06,16,8/5/2023
+982,LED Desk Light,$489844.95,3,26/1/2021
+983,Water-Resistant Bluetooth Speaker,$862031.83,1,15/5/2023
+984,Pasta (Fusilli),$747093.45,7,23/8/2022
+985,Collapsible Folding Chair,$298351.99,2,29/7/2021
+986,Fitness Jump Box,$722439.29,17,21/7/2022
+987,Kale Salad Kit,$214851.59,13,20/10/2021
+988,Pet Carrier,$437162.99,17,5/5/2024
+989,Vegetable Curry,$2104.58,19,23/3/2020
+990,Baby Monitor,$249354.56,11,19/8/2021
+991,Premium Flashlight,$600337.63,6,21/3/2024
+992,Portable USB-C Monitor,$295587.27,7,6/8/2022
+993,Wall Calendar,$782617.99,7,19/10/2022
+994,Organic Tomato Soup,$381646.02,9,23/6/2021
+995,Lentil Vegetable Stew,$372370.81,9,27/4/2024
+996,Cinnamon Spiced Almonds,$850968.14,15,10/7/2022
+997,Whole Chicken,$820855.46,20,6/8/2025
+998,Fitness Resistance Bands Set,$149317.06,13,3/9/2023
+999,Under Desk Footrest,$722419.13,3,24/9/2020
+1000,Organic Green Tea,$528998.94,17,9/7/2025
